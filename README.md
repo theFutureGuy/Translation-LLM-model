@@ -17,3 +17,10 @@ os -> 10.14.6
 python -> 3.6.4
 numpy -> 1.17.0
 
+
+Reference:
+1) https://www.datacamp.com/tutorial/pytorch-tutorial-building-a-simple-neural-network-from-scratch
+2) "https://arxiv.org/abs/1706.03762 - "Attention Is All You Need"
+3) DeepLearning.AI LLM notes
+
+
